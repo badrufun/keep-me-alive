@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="keep-me-alive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/keep_me_alive_jar</output-path>
+    <root id="archive" name="keep-me-alive.jar">
+      <element id="module-output" name="keep-me-alive" />
+    </root>
+  </artifact>
+</component>
